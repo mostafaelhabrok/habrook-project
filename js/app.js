@@ -72,10 +72,6 @@ function scrollStopEvent ( event ) {
 }
 
 
-
-
-
-
 ///////////////////////////////////////MainCode////////////////////////////////////
 createAnchorBySection();
 window.addEventListener('scroll',scrollStopEvent , false);
